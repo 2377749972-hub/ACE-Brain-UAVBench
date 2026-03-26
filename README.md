@@ -1,2 +1,2 @@
 # ACE-Brain-UAVBench
-使用ace-brain评测urbanvideobench、aircopbench以及open3dvqa
+使用ace-brain评测urbanvideobench、aircopbench以及open3dvqa三个benchmark的替换文件
